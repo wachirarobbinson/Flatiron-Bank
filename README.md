@@ -1,9 +1,9 @@
 # flatiron-bank
 - This simple React app allows users to view, search, and add bank transactions to a table. 
-- To view the project on th browser visit: 
+- Here is the projects URL: https://golden-kringle-c4baa4.netlify.app/
 ## Project Description
 The user fills out and submits the form to add a new transaction. This adds the new transaction to the table.
-Users can search for transactions by typing into the search bar. Only transactions with a description matching the search term are shown in the transactions table.Users can delete a transaction which will remove it from the table
+Users can search for transactions by typing into the search bar. Only transactions with a description matching the search term are shown in the transactions table. Users can delete a transaction which will remove it from the table
   
 # Executing App on a local machine
 
@@ -17,7 +17,7 @@ $ 'cd flatiron-bank
 ```
 **Install json server tool with the following command**
 ```
-$ 'npm install -g json server'
+$ 'npm install -g json server
 ```
 **Run npm install with the following command**
 ```
